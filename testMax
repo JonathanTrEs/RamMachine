@@ -1,0 +1,7 @@
+    LOAD =2000000000
+    STORE 1
+    LOAD =2000000000
+    ADD 1
+    STORE 2
+    WRITE 2
+    HALT 
